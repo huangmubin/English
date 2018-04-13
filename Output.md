@@ -219,4 +219,71 @@ I can put my sofa over there.
 
 I’ll take it.
 
+## 4
+
+So, how's the new apartment?
+It's great. I ready like it.
+Tell me about it. Is the neighborhood safe?
+Yes, Mom. It's very safe.
+What's your room like?
+It's pretty big. I like it.
+Oh, good. What about the rest of the apartment?
+It's nice. I share a kitchen, living room and a bathroom with my roommate, Jake.
+You share a bathroom? Is it clean?
+Yes, Mom. It's very clean.
+Hmm. What's the kitchen like?
+It's good. There's a fridge, and a stove, and a dishwasher.
+Oh, very nice.
+So how's everything at home?
+Oh, you know, the same. Your father's feeling better.
+That's good. Hey, mom, I have to go now. Say hi to Dad for me.
+OK, dear. Call me soon.
+OK, Mom. Bye.
+
+
+> ---
+
+//So how's the new apartment?
+So, how's the new apartment?
+//It's very good.
+It's great. I ready like it.
+//Is the neighborhood safe?
+Tell me about it. Is the neighborhood safe?
+Yes, Mom. It's very safe.
+What's your room like?
+//It's pretty big. I ready like it.
+It's pretty big. I like it.
+//What's the rest of the apartment?
+Oh, good. What about the rest of the apartment?
+//It's pretty big. I share a kitchen, and living room, and a bathroom with my roommate, Jake.
+It's nice. I share a kitchen, living room and a bathroom with my roommate, Jake.
+You share a bathroom? Is it clean?
+//Yes, it's very clean.
+Yes, Mom. It's very clean.
+//How's your kitchen?
+Hmm. What's the kitchen like?
+//It's very nice. There's a firdge, and a stove, and a dishwasher.
+It's good. There's a fridge, and a stove, and a dishwasher.
+//Oh, that's nice.
+Oh, very nice.
+//How's everything at home?
+So, how's everything at home?
+Oh, you know, the same. Your father's feeling better.
+//Oh, Mom. I have to go now. Say hi to Dad for me.
+That's good. Hey, Mom. I have to go now. Say hi to Dad for me.
+//OK, dear. Call me soon. Bye.
+OK, dear. Call me soon.
+//Bye, Mom.
+OK, Mom. Bye.
+
+
+
+
+
+
+
+
+
+the rest of
+
 
