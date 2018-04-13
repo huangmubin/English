@@ -219,7 +219,7 @@ I can put my sofa over there.
 
 I’ll take it.
 
-## 4
+## 4 描述住所
 
 So, how's the new apartment?
 It's great. I ready like it.
@@ -239,6 +239,20 @@ Oh, you know, the same. Your father's feeling better.
 That's good. Hey, mom, I have to go now. Say hi to Dad for me.
 OK, dear. Call me soon.
 OK, Mom. Bye.
+
+> -
+
+Hi, Victoria.
+
+How are you? I have a new apartment. The neighborhood is exciting, but sometimes it's pretty noisy. The kitchen is modern and has a new dishwasher and fridge. The living room is wonderful. It has a lot of light, and it's really comfortable. The bedroom is large, but it's a little cold.
+
+Come see me soon!
+
+Sumiko
+
+> - 
+
+Our apartment is very nice, but there are some problems. Our place is quiet, but the neighborhood is dangerous sometimes. Our kitchen is modern and lovely, but the dishwasher is noisy. The bedroom is small, and the bathroom's a little ugly. The living room is great. We have a big tv and really comfortable chairs.
 
 
 > ---
@@ -277,12 +291,14 @@ OK, dear. Call me soon.
 OK, Mom. Bye.
 
 
+### Words
 
-
-
-
-
-
+lovely - ugly
+comfortable - uncomfortable
+modern - old
+clean - dirty
+safe - dangerous
+noisy - quiet
 
 the rest of
 
