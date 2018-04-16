@@ -5,7 +5,31 @@
 
 2018-04-14 背诵单元单词
 
-## 1 谈论你的兴趣爱好
+## 1 谈论你的兴趣爱好 
+
+> 2018-04-15
+
+No!
+Yeah!
+Ha-ha!
+I win again.
+Jake, you're terrible at computer games.
+Well, I don't play them all day, like Simon does.
+Yeah, yeah.
+I have other interests.
+Let me guess. Stamp collecting?
+Vary funny.
+Actually, I have lots of hobbies. I am interested in cooking, for example.
+And I like running. And photography.
+Yeah, I'm quite good at it.
+Umm, can we see some of your pictures?
+Uh, sure.
+What is it?
+I don't know.
+His thumb?
+Oh, uh, uh ... wrong picture.
+
+
 
 ## 2 询问他人的兴趣
 
